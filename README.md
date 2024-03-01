@@ -1,6 +1,6 @@
 # MeowOptions
 
- A quick way to setup `PlayerPrefs` using Scriptable Objects to manage different settings
+ A quick way to setup `PlayerPrefs` using Scriptable Objects.
 
 # Usage
 See Examples in `Assets/MeowOptions/Examples/Scenes/MeowOptionsSample`
