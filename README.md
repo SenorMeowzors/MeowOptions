@@ -1,6 +1,6 @@
 # MeowOptions
 
- A quick way to setup `PlayerPrefs` using Scriptable Objects.
+ A quick way to integrate `PlayerPrefs` with Unity's UI using Scriptable Objects.
 
 # Usage
 See Examples in `Assets/MeowOptions/Examples/Scenes/MeowOptionsSample`
